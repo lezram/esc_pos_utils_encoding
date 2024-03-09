@@ -9,7 +9,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  image: ^4.0.17
+  image: ^4.0.15
   html: ^0.15.0
 
 dev_dependencies:
