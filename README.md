@@ -1,5 +1,7 @@
 # esc_pos_utils
 
+REMARK: This is a fork of (esc_pos_utils_plus)[https://pub.dev/packages/esc_pos_utils_plus] to add the possibility to use a different encoding than latin1 via the package (enough_convert)[https://pub.dev/packages/enough_convert].
+
 [![Pub Version](https://img.shields.io/pub/v/esc_pos_utils)](https://pub.dev/packages/esc_pos_utils)
 
 Base Flutter/Dart classes for ESC/POS printing. `Generator` class generates ESC/POS commands that can be sent to a thermal printer.
